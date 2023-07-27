@@ -4,7 +4,6 @@ import os
 import cv2
 import random
 import pickle
-import time
 
 #defines catagories for seperation
 DATADIR = "C:\\Users\\ardaa\\OneDrive\\Desktop\\archive\\BrainT-Dataset"
